@@ -29,4 +29,4 @@ This project contains data and analysis for the DataFest 2025 event.
 <img src="/plot4.jpg" alt="">
 
 ## Notes
-- For more information, refer to the notebook and included documentation files.
+- For more information, refer to the notebook `datafest.ipynb`.
